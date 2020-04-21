@@ -15,6 +15,14 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 ---
 
+推荐程序员都关注的一个漫画公众号
+
+![](http://www.ityouknow.com/assets/images/cartoon.jpg)
+
+关注后，回复：**java** 获取超过 10万 人领取的 Java 知识体系/面试必看资料。
+
+
+
 ## Spring Boot 2.0
 
 **[Spring Boot 2.0 最全使用教程](https://github.com/ityouknow/spring-boot-leaning)**
@@ -33,6 +41,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [spring-boot-webflux](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-webflux) ：Spring Boot webflux 示例
 - [spring-boot-elasticsearch](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-elasticsearch) ：Spring Boot elasticsearch 示例
 - [spring-boot-swagger](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-swagger) ：Spring Boot swagger2 示例
+- [spring-boot-mybatis-plus](https://github.com/ityouknow/spring-boot-examples/tree/master/spring-boot-mybatis-plus) ：Spring Boot 集成 MyBatis Plus 示例
 
 **参考文章**
 
@@ -49,11 +58,7 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 - [Spring Boot 2 (十)：Spring Boot 中的响应式编程和 WebFlux 入门](http://www.ityouknow.com/springboot/2019/02/12/spring-boot-webflux.html) 
 
 
-## 下方示例已经全部升级到 2.X，可关注下方公号查看。
-
-![](http://www.ityouknow.com/assets/images/java.jpg)
-
-另外关注后，回复：java 获取超过10000+人领取的 Java 知识体系/面试必看资料。
+## 下方示例已经全部升级到 2.X
 
 **示例代码**
 
